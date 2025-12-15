@@ -1,11 +1,3 @@
-HOW TO USE THIS TEMPLATE:
-1. Click the "Copy raw file" button (two overlapping squares icon) above
-2. Go back to the projects/ folder
-3. Click "Add file" → "Create new file"
-4. Name your file (e.g., wildfire-analysis.md)
-5. Paste the template content
-6. Delete this instruction block and fill in your project details
-
 # Project Title
 
 **Date:** [Month Year]  
