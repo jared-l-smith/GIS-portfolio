@@ -11,6 +11,10 @@
 ### Front Range Community College
 Expected Graduation: [Month Year]
 
+**Geospatial Science**  
+### Front Range Community College
+Expected Graduation: [Month Year]
+
 ## Skills
 ### GIS & Remote Sensing
 - [List relevant technical skills]
@@ -37,7 +41,5 @@ Expected Graduation: [Month Year]
 - [Link to posters page](posters/posters.md)
 
 ## Contact
-- Email: [your.email@student.cccs.edu]
-    - Remember: Your student email is purged 6 months after graduation/completion!
-- GitHub: [github.com/yourusername]
-- LinkedIn: [optional]
+- Email: jaredlavernesmith@gmail.com
+- LinkedIn: www.linkedin.com/in/jaredlavernesmith
