@@ -6,7 +6,7 @@ You need to include your own language about your writing. Describe what type of 
 
 ## Research Papers
 
-### [Democracy In My Backyard]   
+### Democracy In My Backyard   
 **Topics:** [List key topics covered]
 **Date:** [Month Year]  
 **Context:** [Why was this paper/project created?]  
