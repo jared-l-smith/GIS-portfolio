@@ -26,4 +26,4 @@ Example structure:
 [Optional: Link to GitHub repo, data sources, notebooks, etc.]
 
 ---
-[Back to Portfolio](../README.md)
+[Back to Home](../index.md)
