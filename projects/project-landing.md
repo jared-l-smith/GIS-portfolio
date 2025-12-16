@@ -22,7 +22,7 @@ You need to include your own language introducing your project. Describe what ty
 
 [2-3 sentence description of the project, research question, and findings]
 
-[Click to learn more](../projects/SRO.md)
+[Click to learn more](../projects/project-name.md)
 
 ---
 
@@ -33,20 +33,7 @@ You need to include your own language introducing your project. Describe what ty
 
 [2-3 sentence description of the project, research question, and findings]
 
-[Click to learn more](../project-name.md)
-
----
-
-## [Project Category]
-
-### [Project Title]   
-**Topics:** [List key topics covered]  
-**Date:** [Month Year]  
-**Context:** [Why was this project created?]
-
-[2-3 sentence description of the project, research question, and findings]
-
-[Click to learn more](../project-name.md)
+[Click to learn more](../projects/project-name.md)
 
 ---
 
@@ -59,7 +46,20 @@ You need to include your own language introducing your project. Describe what ty
 
 [2-3 sentence description of the project, research question, and findings]
 
-[Click to learn more](../project-name.md)
+[Click to learn more](../projects/project-name.md)
+
+---
+
+## [Project Category]
+
+### [Project Title]   
+**Topics:** [List key topics covered]  
+**Date:** [Month Year]  
+**Context:** [Why was this project created?]
+
+[2-3 sentence description of the project, research question, and findings]
+
+[Click to learn more](../projects/project-name.md)
 
 ---
 
