@@ -1,6 +1,8 @@
-# Writing Samples
+ # Writing Samples
 
-Technical and scientific writing is a critical skill in GIS and remote sensing. Below are examples of my written work demonstrating my ability to communicate complex spatial analysis and research.
+You need to include your own language about your writing. Describe what type of writing samples you have available, and why it is important to potential employers. Example language is below: 
+
+[Technical and scientific writing is a critical skill in GIS and remote sensing. Below are examples of my written work demonstrating my ability to communicate complex spatial analysis and research.]
 
 ## Research Papers
 
