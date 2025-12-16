@@ -7,9 +7,9 @@ You need to include your own language about your writing. Describe what type of 
 ## Research Papers
 
 ### Democracy In My Backyard   
-**Topics:** [[List key topics covered]  
+**Topics:** [List key topics covered]  
 **Date:** [Month Year]  
-**Context:** [[Why was this paper/project created?]
+**Context:** [Why was this paper/project created?]
 
 [2-3 sentence description of the paper/project, research question, and findings]
 
@@ -18,9 +18,9 @@ You need to include your own language about your writing. Describe what type of 
 ---
 
 ### [Paper Title]
-**Topics:** [List key topics covered]
+**Topics:** [List key topics covered]  
 **Date:** [Month Year]  
-**Context:** [Why was this paper/project created?] 
+**Context:** [Why was this paper/project created?]
 
 [2-3 sentence description of the paper, research question, and findings]
 
@@ -31,7 +31,7 @@ You need to include your own language about your writing. Describe what type of 
 ## Lab Reports & Technical Reports
 
 ### [Report Title]
-**Topics:** [List key topics covered]
+**Topics:** [List key topics covered]  
 **Date:** [Month Year]  
 **Context:** [Why was this paper/project created?] 
 
@@ -44,7 +44,7 @@ You need to include your own language about your writing. Describe what type of 
 ## Technical Memos
 
 ### [Memo Title]
-**Topics:** [List key topics covered]
+**Topics:** [List key topics covered]  
 **Date:** [Month Year]  
 **Context:** [Why was this paper/project created?]  
 
