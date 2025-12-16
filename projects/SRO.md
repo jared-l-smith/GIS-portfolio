@@ -1,10 +1,5 @@
 # Project Title
 
-**Date:** [Month Year]  
-**Course:** [Course Name/Number]  
-**Tools:** [ArcGIS Pro, QGIS, Python, R, etc.]
-
-## Overview
 [2-3 sentence description of what this project was about and what you created]
 
 ## Methods
