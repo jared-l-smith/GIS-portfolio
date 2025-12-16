@@ -21,11 +21,10 @@ Example structure:
 - [Skill 3]
 
 ## Outputs
-e]
 
 ![SRO Sales in Rent Burdened Areas](../images/JaredSmith_SRO_Map.pdf)
 
-## Challenges & Solutions
+## Challenges & Solutions      
 [Optional: What problems did you encounter and how did you solve them?]
 
 ## Code/Data
