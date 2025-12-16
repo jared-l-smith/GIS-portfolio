@@ -23,7 +23,7 @@ Example structure:
 ## Outputs
 [Include maps, charts, or other visual products here]
 
-![Map/Figure Title](../images/project-name-map.png)
+![Map/Figure Title](../images/JaredSmith_SRO_Map.pdf)
 
 ## Challenges & Solutions
 [Optional: What problems did you encounter and how did you solve them?]
