@@ -13,7 +13,7 @@ You need to include your own language about your writing. Describe what type of 
 
 [2-3 sentence description of the paper/project, research question, and findings]
 
-[Download Paper as a PDF](JaredSmith_DIMBY.pdf)
+[Download the paper as a PDF](JaredSmith_DIMBY.pdf)
 
 ---
 
