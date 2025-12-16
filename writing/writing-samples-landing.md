@@ -6,21 +6,21 @@ You need to include your own language about your writing. Describe what type of 
 
 ## Research Papers
 
-### [Paper Title]
-**Course:** [Course Name]  
-**Date:** [Month Year]  
+### [Democracy In My Backyard]   
 **Topics:** [List key topics covered]
+**Date:** [Month Year]  
+**Context:** [Why was this paper/project created?]  
 
-[2-3 sentence description of the paper, research question, and findings]
+[2-3 sentence description of the paper/project, research question, and findings]
 
-[Download PDF](paper-filename.pdf)
+[Download Paper as a PDF](JaredSmith_DIMBY.pdf)
 
 ---
 
 ### [Paper Title]
-**Course:** [Course Name]  
-**Date:** [Month Year]  
 **Topics:** [List key topics covered]
+**Date:** [Month Year]  
+**Context:** [Why was this paper/project created?] 
 
 [2-3 sentence description of the paper, research question, and findings]
 
@@ -31,9 +31,9 @@ You need to include your own language about your writing. Describe what type of 
 ## Lab Reports & Technical Reports
 
 ### [Report Title]
-**Course:** [Course Name]  
+**Topics:** [List key topics covered]
 **Date:** [Month Year]  
-**Analysis Type:** [Spatial analysis, remote sensing classification, etc.]
+**Context:** [Why was this paper/project created?] 
 
 [Brief description of methods and findings documented in the report]
 
@@ -44,8 +44,9 @@ You need to include your own language about your writing. Describe what type of 
 ## Technical Memos
 
 ### [Memo Title]
-**Project:** [Project name or context]  
+**Topics:** [List key topics covered]
 **Date:** [Month Year]  
+**Context:** [Why was this paper/project created?]  
 
 [Brief description of the technical communication, problem addressed, and recommendations]
 
