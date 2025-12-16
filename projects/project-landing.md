@@ -1,4 +1,4 @@
- # Project
+ # Projects
 
  **NOTE: Run all this text through Grammerly before you publish. There's no spellcheck here.**
 
@@ -13,53 +13,53 @@ You need to include your own language introducing your project. Describe what ty
 
 [Technical and scientific writing is a critical skill in GIS and remote sensing. Below are examples of my written work demonstrating my ability to communicate complex spatial analysis and research.]
 
-## Research Papers
+## [Project Category]
 
-### Democracy In My Backyard   
+### [Project Title]   
 **Topics:** [List key topics covered]  
 **Date:** [Month Year]  
-**Context:** [Why was this paper/project created?]
+**Context:** [Why was this project created?]
 
-[2-3 sentence description of the paper/project, research question, and findings]
+[2-3 sentence description of the project, research question, and findings]
 
-[Download the paper as a PDF](JaredSmith_DIMBY.pdf)
+[Click to learn more](../project-name.md)
 
 ---
 
-### [Paper Title]
+### [Project Title]   
 **Topics:** [List key topics covered]  
 **Date:** [Month Year]  
-**Context:** [Why was this paper/project created?]
+**Context:** [Why was this project created?]
 
-[2-3 sentence description of the paper, research question, and findings]
+[2-3 sentence description of the project, research question, and findings]
 
-[Download PDF](paper-filename.pdf)
+[Click to learn more](../project-name.md)
 
 ---
 
-## Lab Reports & Technical Reports
+## [Project Category]
 
-### [Report Title]
+### [Project Title]   
 **Topics:** [List key topics covered]  
 **Date:** [Month Year]  
-**Context:** [Why was this paper/project created?] 
+**Context:** [Why was this project created?]
 
-[Brief description of methods and findings documented in the report]
+[2-3 sentence description of the project, research question, and findings]
 
-[Download PDF](report-filename.pdf)
+[Click to learn more](../project-name.md)
 
 ---
 
-## Technical Memos
+## [Project Category]
 
-### [Memo Title]
+### [Project Title]   
 **Topics:** [List key topics covered]  
 **Date:** [Month Year]  
-**Context:** [Why was this paper/project created?]  
+**Context:** [Why was this project created?]
 
-[Brief description of the technical communication, problem addressed, and recommendations]
+[2-3 sentence description of the project, research question, and findings]
 
-[Download PDF](memo-filename.pdf)
+[Click to learn more](../project-name.md)
 
 ---
 
