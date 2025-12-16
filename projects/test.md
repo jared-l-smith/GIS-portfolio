@@ -21,9 +21,9 @@ Example structure:
 - [Skill 3]
 
 ## Outputs
-[Include maps, charts, or other visual products here]
+e]
 
-![Map/Figure Title](../images/JaredSmith_SRO_Map.pdf)
+![SRO Sales in Rent Burdened Areas](../images/JaredSmith_SRO_Map.pdf)
 
 ## Challenges & Solutions
 [Optional: What problems did you encounter and how did you solve them?]
