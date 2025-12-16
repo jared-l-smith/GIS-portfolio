@@ -1,8 +1,6 @@
 # Database Design & Data Modeling Guide
 
-```
 This folder contains your database design work and data modeling projects. Database skills are critical in GIS - proper database design ensures data integrity, performance, and scalability of spatial applications.
-```
 
 ## What to Include
 
