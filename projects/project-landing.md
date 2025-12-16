@@ -22,7 +22,7 @@ You need to include your own language introducing your project. Describe what ty
 
 [2-3 sentence description of the project, research question, and findings]
 
-[Click to learn more](../project-name.md)
+[Click to learn more](../SRO.md)
 
 ---
 
