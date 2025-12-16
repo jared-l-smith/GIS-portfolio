@@ -22,7 +22,7 @@ Example structure:
 
 ## Outputs
 
-![SRO Sales in Rent Burdened Areas](.../images/sro-map.png)
+![SRO Sales in Rent Burdened Areas](../images/sro-map.png)
 
 ## Challenges & Solutions      
 [Optional: What problems did you encounter and how did you solve them?]
