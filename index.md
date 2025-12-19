@@ -7,11 +7,15 @@
 [1-2 sentences about your area of focus or field of interest - e.g., environmental science, urban planning, forestry, public health, etc. What problems do you want to solve with GIS?]
 
 ## Education
-**Geospatial Science**  
-### Front Range Community College
-Expected Graduation: [Month Year]
+**M.A. in Sustainable Urban Development**  
+### DePaul University, Chicago, IL
+Expected Graduation: June 2026
 
-**Geospatial Science**  
+**Graduate Certificate in Geographic Information Systems**  
+### DePaul University, Chicago, IL
+Expected Graduation: June 2026
+
+**Undergraduate Degree???**  
 ### Front Range Community College
 Expected Graduation: [Month Year]
 
@@ -24,21 +28,23 @@ Expected Graduation: [Month Year]
 ### Programming & Data Analysis
 - [Languages/tools]
 
-## Projects
-- [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - **SAMPLE** - A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.
+# Featured Projects
 
-## Problem/Question
-- [Project 2 Title](projects/project2.md) - [One sentence description]
+- **SAMPLE** [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - [A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.]
 
-## Database Design & Data Modeling
-- [Database Projects](database/database-projects.md)
+## Featured GIS Project
+- [Featured  Project Title](projects/project-name.md) - [One sentence description.]
 
-## Web Applications
-- [Link to ArcGIS Online Dashboards, Experience Builder apps, StoryMaps, etc.]
+## Featured Data Science Project
+- [Featured  Project Title](projects/project-name.md) - [One sentence description.]
 
-## Writing & Posters
-- [Link to writing samples page](writing/writing-samples.md)
-- [Link to posters page](posters/posters.md)
+## Featured StoryMap 
+- [Featured  Project Title](projects/project-name.md) - [One sentence description.]
+
+# Writing Samples
+[One sentence description of what one can find on this page.]
+- [Link to writing samples page](writing/writing-samples-landing.md)
+
 
 ## Contact
 - Email: jaredlavernesmith@gmail.com
