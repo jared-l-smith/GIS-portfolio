@@ -7,17 +7,17 @@
 [1-2 sentences about your area of focus or field of interest - e.g., environmental science, urban planning, forestry, public health, etc. What problems do you want to solve with GIS?]
 
 ## Education
-**M.A. in Sustainable Urban Development**  
-### DePaul University, Chicago, IL
+### M.A. in Sustainable Urban Development**  
+**DePaul University, Chicago, IL**
 Expected Graduation: June 2026
 
-**Graduate Certificate in Geographic Information Systems**  
-### DePaul University, Chicago, IL
+### Graduate Certificate in Geographic Information Systems
+**DePaul University, Chicago, IL**
 Expected Graduation: June 2026
-
-**Undergraduate Degree???**  
-### Front Range Community College
-Expected Graduation: [Month Year]
+  
+### Indiana University- Bloomington
+**Undergraduate Degree???**
+Graduation: May 2018
 
 ## Skills
 ### GIS & Remote Sensing
