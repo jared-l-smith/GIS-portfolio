@@ -1,66 +1,46 @@
- # Projects
+ # ArcPy Scripts
 
  **NOTE: Run all this text through Grammerly before you publish. There's no spellcheck here.**
 
-This is the landing page for all of your projects. As of nows, projects include Maps and Spatial Anyalysis, StoryMaps, Data Science, and Stats Analysis.
-ArcPy Scripts will contained on thier own page, but our data science code/results will contained here. We can change this later if we feel different. 
+This is the landing page for all of your ArcPy Scripts. As of nows, Data Science projects/code are in the Projects section. 
+We can change this later if we feel different. 
 
-Projects will be organized by Skill (Data Science, Spatial Analysis, etc). Within each section, let's organize projects in reverse chhronological order (Newest projects first.) 
-Your homepage will have a section for Featured Projects, the ones you are most proud of. 
+Right now, let's just use code from the Python Final. Let's only include the useful ArcPy scripts. No more than five. 
 
-
-You need to include your own language introducing your project. Describe what type of projects are featured, and why they are important to potential employers. Example language is below: 
-
-[Technical and scientific writing is a critical skill in GIS and remote sensing. Below are examples of my written work demonstrating my ability to communicate complex spatial analysis and research.]
-
-## [Project Category]
-
-### [Project Title]   
-**Topics:** [List key topics covered]  
-**Date:** [Month Year]  
-**Context:** [Why was this project created?]
-
-[2-3 sentence description of the project, research question, and findings]
-
-[Click to learn more](../projects/project-name.md)
+You need to include your own language introducing your this page. Describe what type of scripts are featured, and why they are important to potential employers. 
 
 ---
 
-### [Project Title]   
-**Topics:** [List key topics covered]  
-**Date:** [Month Year]  
-**Context:** [Why was this project created?]
+## [Script Overview]
 
-[2-3 sentence description of the project, research question, and findings]
+[2-3 sentence description the script. What are the goals of the script? What is the output? How is it useful?]
 
-[Click to learn more](../projects/project-name.md)
+[**INSERT CODE BLOCK**]
 
 ---
 
-## [Project Category]
+## [Script Overview]
 
-### [Project Title]   
-**Topics:** [List key topics covered]  
-**Date:** [Month Year]  
-**Context:** [Why was this project created?]
+[2-3 sentence description the script. What are the goals of the script? What is the output? How is it useful?]
 
-[2-3 sentence description of the project, research question, and findings]
-
-[Click to learn more](../projects/project-name.md)
+[**INSERT CODE BLOCK**]
 
 ---
 
-## [Project Category]
+## [Script Overview]
 
-### [Project Title]   
-**Topics:** [List key topics covered]  
-**Date:** [Month Year]  
-**Context:** [Why was this project created?]
+[2-3 sentence description the script. What are the goals of the script? What is the output? How is it useful?]
 
-[2-3 sentence description of the project, research question, and findings]
-
-[Click to learn more](../projects/project-name.md)
+[**INSERT CODE BLOCK**]
 
 ---
 
-[Back to Portfolio](../index.md)
+## [Script Overview]
+
+[2-3 sentence description the script. What are the goals of the script? What is the output? How is it useful?]
+
+[**INSERT CODE BLOCK**]
+
+---
+
+[Back to Portfolio Homepage](../index.md)
