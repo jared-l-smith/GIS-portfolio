@@ -7,7 +7,7 @@
 [1-2 sentences about your area of focus or field of interest - e.g., environmental science, urban planning, forestry, public health, etc. What problems do you want to solve with GIS?]
 
 ## Education
-### M.A. in Sustainable Urban Development**  
+### M.A. in Sustainable Urban Development 
 **DePaul University, Chicago, IL**
 Expected Graduation: June 2026
 
