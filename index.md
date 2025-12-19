@@ -15,8 +15,8 @@ Expected Graduation: June 2026
 **DePaul University, Chicago, IL**
 Expected Graduation: June 2026
   
-### Indiana University- Bloomington
-**Undergraduate Degree???**
+### Undergraduate Degree???
+**Indiana University - Bloomington**
 Graduation: May 2018
 
 ## Skills
