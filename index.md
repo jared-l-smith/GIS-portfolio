@@ -8,11 +8,13 @@
 
 ## Education
 ### M.A. in Sustainable Urban Development 
-**DePaul University** | Expected Graduation: June 2026
+DePaul University | Expected Graduation: June 2026
+*Specializations:* Data Visualization and Analysis; Policy Research and Analysis
 
 ### Graduate Certificate in Geographic Information Systems
-**DePaul University** | Expected Graduation: June 2026
-  
+DePaul University | Expected Graduation: June 2026
+*Specializations:* Spatial Analysis for Community Development; Python for GIS 
+
 ## Skills
 ### GIS & Remote Sensing
 - [List relevant technical skills]
@@ -40,11 +42,11 @@
 
 ## All Projects 
 [Brief description of what type of work my projects entail. Data Science, Spatial Analysis, Web Mapping: what else?  
-[Link to projects page](projects/project-landing.md)
+[Link to Projects page](projects/project-landing.md)
 
 ## Writing Samples
 [One sentence description of what one can find on this page.]  
-[Link to writing samples page](writing/writing-samples-landing.md)
+[Link to Writing Samples page](writing/writing-samples-landing.md)
 
 ## ArcPy Scripts 
 [One sentence description of what one can find on this page.]  
