@@ -8,8 +8,7 @@
 
 ## Education
 ### M.A. in Sustainable Urban Development 
-**DePaul University, Chicago, IL**
-
+**DePaul University, Chicago, IL**  
 Expected Graduation: June 2026
 
 ### Graduate Certificate in Geographic Information Systems
@@ -17,8 +16,7 @@ Expected Graduation: June 2026
 Expected Graduation: June 2026
   
 ### Undergraduate Degree???
-**Indiana University - Bloomington**
-
+**Indiana University - Bloomington**  
 Graduation: May 2018
 
 ## Skills
