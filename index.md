@@ -8,10 +8,10 @@
 
 ## Education
 ### M.A. in Sustainable Urban Development 
-**DePaul University, Chicago, IL**| Expected Graduation: June 2026
+**DePaul University** | Expected Graduation: June 2026
 
 ### Graduate Certificate in Geographic Information Systems
-**DePaul University, Chicago, IL** | Expected Graduation: June 2026
+**DePaul University** | Expected Graduation: June 2026
   
 ## Skills
 ### GIS & Remote Sensing
@@ -25,7 +25,7 @@
 # Featured Projects
 [Brief description of the skills showcased in my featured projects]  
 
-**SAMPLE** [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - [A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.]
+**SAMPLE** [Boulder County Trail Access Analysis](projects/sample-project.md) - [A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.]
 
 ## Featured Project 1
 - [Featured  Project Title](projects/project-name.md) - [One sentence description.]
@@ -40,7 +40,7 @@
 
 ## All Projects 
 [Brief description of what type of work my projects entail. Data Science, Spatial Analysis, Web Mapping: what else?  
-[Link to projects page] (projects/project-landing.md)
+[Link to projects page](projects/project-landing.md)
 
 ## Writing Samples
 [One sentence description of what one can find on this page.]  
