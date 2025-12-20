@@ -22,30 +22,37 @@
 ### Programming & Data Analysis
 - [Languages/tools]
 
-## Contact
-- Email: jaredlavernesmith@gmail.com
-- LinkedIn: www.linkedin.com/in/jaredlavernesmith
-
 # Featured Projects
+[Brief description of the skills showcased in my featured projects]  
 
-- **SAMPLE** [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - [A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.]
+**SAMPLE** [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - [A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.]
 
-## Featured GIS Project
+## Featured Project 1
 - [Featured  Project Title](projects/project-name.md) - [One sentence description.]
 
-## Featured Data Science Project
+## Featured Project 2
 - [Featured  Project Title](projects/project-name.md) - [One sentence description.]
 
-## Featured StoryMap 
+## Featured Project 3
 - [Featured  Project Title](projects/project-name.md) - [One sentence description.]
 
-# Writing Samples
+# Additional Work  
+
+## All Projects 
+[Brief description of what type of work my projects entail. Data Science, Spatial Analysis, Web Mapping: what else?  
+[Link to projects page] (projects/project-landing.md)
+
+## Writing Samples
 [One sentence description of what one can find on this page.]  
 [Link to writing samples page](writing/writing-samples-landing.md)
 
-# ArcPy Scripts 
+## ArcPy Scripts 
 [One sentence description of what one can find on this page.]  
 [Link to ArcPy Script Page](scripts/scripts-landing.md)
+
+# Contact
+- Email: jaredlavernesmith@gmail.com
+- LinkedIn: www.linkedin.com/in/jaredlavernesmith
 
 
 
