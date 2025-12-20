@@ -28,6 +28,10 @@ Graduation: May 2018
 ### Programming & Data Analysis
 - [Languages/tools]
 
+## Contact
+- Email: jaredlavernesmith@gmail.com
+- LinkedIn: www.linkedin.com/in/jaredlavernesmith
+
 # Featured Projects
 
 - **SAMPLE** [SAMPLE: Boulder County Trail Access Analysis](projects/sample-project.md) - [A viewshed analysis to identify optimal trailhead locations with mountain views for the Boulder County Parks Department.]
@@ -46,6 +50,3 @@ Graduation: May 2018
 - [Link to writing samples page](writing/writing-samples-landing.md)
 
 
-## Contact
-- Email: jaredlavernesmith@gmail.com
-- LinkedIn: www.linkedin.com/in/jaredlavernesmith
