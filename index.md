@@ -8,17 +8,11 @@
 
 ## Education
 ### M.A. in Sustainable Urban Development 
-**DePaul University, Chicago, IL**  
-Expected Graduation: June 2026
+**DePaul University, Chicago, IL**| Expected Graduation: June 2026
 
 ### Graduate Certificate in Geographic Information Systems
-**DePaul University, Chicago, IL**  
-Expected Graduation: June 2026
+**DePaul University, Chicago, IL** | Expected Graduation: June 2026
   
-### Undergraduate Degree???
-**Indiana University - Bloomington**  
-Graduation: May 2018
-
 ## Skills
 ### GIS & Remote Sensing
 - [List relevant technical skills]
@@ -46,7 +40,12 @@ Graduation: May 2018
 - [Featured  Project Title](projects/project-name.md) - [One sentence description.]
 
 # Writing Samples
-[One sentence description of what one can find on this page.]
-- [Link to writing samples page](writing/writing-samples-landing.md)
+[One sentence description of what one can find on this page.]  
+[Link to writing samples page](writing/writing-samples-landing.md)
+
+# ArcPy Scripts 
+[One sentence description of what one can find on this page.]  
+[Link to ArcPy Script Page](scripts/scripts-landing.md)
+
 
 
