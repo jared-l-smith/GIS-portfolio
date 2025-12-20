@@ -26,5 +26,5 @@ Example structure:
 [Optional: Link to GitHub repo, data sources, notebooks, etc.]
 
 ---
-[See all Projects](../project-landing.md)
+[See all Projects](../projects/project-landing.md)  
 [Back to Portfolio Homepage](../index.md)
