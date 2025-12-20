@@ -13,8 +13,7 @@
 Expected Graduation: June 2026
 
 ### Graduate Certificate in Geographic Information Systems
-**DePaul University, Chicago, IL**
-
+**DePaul University, Chicago, IL**  
 Expected Graduation: June 2026
   
 ### Undergraduate Degree???
