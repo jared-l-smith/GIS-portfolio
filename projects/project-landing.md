@@ -15,14 +15,14 @@ You need to include your own language introducing your project. Describe what ty
 
 ## [Project Category]
 
-### [SRO Map]   
+### SRO Map
 **Topics:** [List key topics covered]  
 **Date:** [Month Year]  
 **Context:** [Why was this project created?]
 
 [2-3 sentence description of the project, research question, and findings]
 
-[Click to learn more](../projects/SRO.md)
+[Click to see the SRO Map](../projects/SRO.md)
 
 ---
 
