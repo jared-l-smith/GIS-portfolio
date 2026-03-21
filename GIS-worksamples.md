@@ -13,7 +13,7 @@
 ## Featured Project 2
 - [Featured  Project Title](projects/project-name.md) - [One sentence description.]
 
-## ArcGIS StoryMap - *Flags, Food & Faith*
+## ArcGIS StoryMap Project - *Flags, Food & Faith*
 **View the StoryMap here:** https://arcg.is/PfzTi
 
 When working with Chicago's Department of Cultural Affairs and Special Events, I creatively communicated economic development data by partnering with photographer Jonathan Michael Castillo to create a StoryMap for his exhibit, *Flags, Food, and Faith*, a portrait series of Black and Latine small business owners in under-invested neighborhoods. 
