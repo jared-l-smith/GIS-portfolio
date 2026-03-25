@@ -10,7 +10,7 @@
 ## False Alerts Related to GPS Electronic Monitoring in the Cook County Sheriff’s Office                                                      
 [One sentence description.]
 
-[Click Here to View this Project.](projects/FalseAlerts.md) 
+[Click Here to View this Project.](projects/false-alerts.md) 
 
 ## Mapping Chicago’s Disappearing Transitional Housing
 [One sentence description.]
