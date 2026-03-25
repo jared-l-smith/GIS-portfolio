@@ -16,7 +16,7 @@
 ## ArcGIS StoryMap Project - *Flags, Food & Faith*
 An online portrait gallery with interactive maps communicating economic disparity across Chicago’s neighborhoods. 
 
-**View the StoryMap here:** https://arcg.is/PfzTi
+**View the StoryMap here:** [https://arcg.is/PfzTi]
 
 When working with Chicago's Department of Cultural Affairs and Special Events, I partnered with photographer Jonathan Michael Castillo to create a StoryMap for his exhibit *Flags, Food, and Faith*: a portrait series of Black and Latine small business owners in under-invested neighborhoods. 
 
