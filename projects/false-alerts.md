@@ -51,8 +51,9 @@ I then was able to run a correlation analysis and map the geospatial data.
 ## Challenges & Solutions
 [Optional: What problems did you encounter and how did you solve them?]
 
-## Code/Data
-[Optional: Link to GitHub repo, data sources, notebooks, etc.]
+## Intrested in seeing my code? 
+[Click here to see the entire spatial data science project.]
+**Insert link to HTML file??**
 
 ---
 
