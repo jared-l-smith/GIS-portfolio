@@ -15,7 +15,7 @@
 ## Mapping Chicago’s Disappearing Transitional Housing
 [One sentence description.]
 
-[Click Here to View this Project.](projects/SRO.md) 
+[Click Here to View this Project.](projects/SRO.md)
 
 ## ArcGIS StoryMap Project - *Flags, Food & Faith*
 *An online portrait gallery with interactive maps communicating economic disparity across Chicago’s neighborhoods.* 
