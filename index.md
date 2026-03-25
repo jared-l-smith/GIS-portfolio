@@ -18,7 +18,7 @@
 [Click Here to View this Project.](projects/SRO.md) 
 
 ## ArcGIS StoryMap Project - *Flags, Food & Faith*
-An online portrait gallery with interactive maps communicating economic disparity across Chicago’s neighborhoods. 
+*An online portrait gallery with interactive maps communicating economic disparity across Chicago’s neighborhoods.* 
 
 [Click Here to View the StoryMap.](https://arcg.is/PfzTi)
 
