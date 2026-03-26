@@ -20,10 +20,7 @@ However, a major downside of GPS monitoring is ‘false alerts’: a weak GPS si
 
 In cities, a common source of GPS signal error is interference from the built environment. Tall buildings can block or reflect signals, preventing a strong, clear connection between the GPS satellite and the receiver. This project investigates the potential relationship between false alerts in Cook County’s electronic monitoring program and the built environment in Chicago. 
 
-## Research Questions: 
-Is there a relationship between the rate of false alerts and building height?
-
-Is the relationship between the rate of false alerts and  building density?
+**Is there a relationship between the rate of false alerts and building height? Is there a relationship between the rate of false alerts and building density?**
 
 # Data Overview:
 **Chicago Structures**: A section of the FEMA USA Structure Dataset that includes the height and area of all structures in Chicago.
