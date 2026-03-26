@@ -12,7 +12,7 @@
 - [Skill 2]
 - [Skill 3]
 
-Background:
+# Background:
 
 Electronic monitoring is a form of remote surveillance that law enforcement uses as an alternative to incarceration: a person on house arrest may be tracked via a GPS ankle monitor, for example. Advocates of this form of tracking believe it improves the quality of life for the monitored individual. A person on house arrest may not be confined to their home: they can travel to work and school while under law enforcement supervision. 
 
@@ -20,7 +20,7 @@ However, a major downside of GPS monitoring is ‘false alerts’: a weak GPS si
 
 In cities, a common source of GPS signal error is interference from the built environment. Tall buildings can block or reflect signals, preventing a strong, clear connection between the GPS satellite and the receiver. This project investigates the potential relationship between false alerts in Cook County’s electronic monitoring program and the built environment in Chicago. 
 
-Research Question: 
+# Research Question: 
 
 Is there a relationship between the rate of false alerts and zip codes with high building heights? 
 
@@ -28,26 +28,26 @@ Is the relationship between the rate of false alerts and zip codes with a high b
 
 I will run a correlation analysis between the rate of false alerts and average building height and building density. I will also map these variables to analyze a potential spatial relationship.
 
-Data Overview:
+# Data Overview:
 
-FEMA USA Structure Dataset: https://gis-fema.hub.arcgis.com/pages/usa-structures
+## FEMA USA Structure Dataset: https://gis-fema.hub.arcgis.com/pages/usa-structures
 
 * This dataset includes height and area measurements of all structures in the United States with a floor area of 450 square feet or more. 
 * I created a dataset of all buildings within Chicago's city boundaries: each entry represents one of the 557,540 structures.
 
-False Alert by Zip Code: 
+## False Alert by Zip Code: 
 
 * This data was provided directly by the Cook County Sheriff's Office.
 * Each record in the False Alert dataset represents a Chicago zip code, 56 in total. 
 * This dataset includes three columns: 'Zip' (zip code), 'Total Alerts' (total alerts), and 'False Alerts' (false alerts per zip code). 
 * I created a new column titled ‘False Alert Rate’: the number of false alerts divided by the total number of alerts. 
 
-Zip Code Shapefiles: https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Chicago-Zip-Code-and-Neighborhood-Map/mapn-ahfc
+## Zip Code Shapefiles: https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Chicago-Zip-Code-and-Neighborhood-Map/mapn-ahfc
 
 *  This data is available on the City of Chicago’s data portal. 
 * It also includes the area of individual zip codes.
 
-Data Management Workflow 
+# Data Management Workflow 
 
 My primary objective is to merge these datasets into a single dataset that organizes all data by zip code. I performed all of my work using the Pandas and Geopandas Python libraries. 
 
@@ -57,15 +57,13 @@ I am defining building density as the total building area per zip code divided b
 
 I then combined the structural and false alert data with the zip code shapefile using the zip code as a common key. This produced a geocoded dataset containing the average building height, density, and false alert rate for each Chicago ZIP code. 
 
+# Presenting Results
 
-
-Presenting Results
-
-Rate of False Alerts and Building Height
+## Rate of False Alerts and Building Height
 
 [FA and Building Height Map Here]
 
- This map shows the relationship between the rate of false alerts by zip and the average building height in Chicago. 
+This map shows the relationship between the rate of false alerts by zip and the average building height in Chicago. 
 
 There is a slight spatial pattern: false alert rates are high along the shore of Lake Michigan. These areas have a higher average building height, as many high-rise buildings line the lakefront. The zip codes with the highest average building height are in the downtown business district (the “Loop”), and zip codes farthest from the Loop have the lowest building height.
 
@@ -77,7 +75,7 @@ The results of Spearman's correlation analysis between building height and the r
 
  The analysis provided a p-value of .1092. This p-value is not statistically significant, suggesting no association between building height and the rate of false alerts.
 
-Rate of False Alerts and Building Density
+## Rate of False Alerts and Building Density
 
 [FA and Density Map Here]
 
@@ -91,7 +89,7 @@ The evidence suggests a weak association between the rate of false alerts and bu
 
 The correlation analysis yields a Spearman’s rho of .1417, indicating a very weak, positive relationship between the variables. The  analysis also provided a p-value of .3115. This p-value is not statistically significant, suggesting no association between building density and the rate of false alerts.
 
-Conclusion
+# Conclusion
 
 My analysis indicates a weak, positive relationship between the rate of false alerts and zip codes with a high average building height and high building density. 
 
