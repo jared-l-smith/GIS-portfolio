@@ -12,7 +12,7 @@
 - [Skill 2]
 - [Skill 3]
 
-# Background:
+# Introduction:
 
 Electronic monitoring is a form of remote surveillance that law enforcement uses as an alternative to incarceration: a person on house arrest may be tracked via a GPS ankle monitor, for example. Advocates of this form of tracking believe it improves the quality of life for the monitored individual. A person on house arrest may not be confined to their home: they can travel to work and school while under law enforcement supervision. 
 
@@ -20,38 +20,18 @@ However, a major downside of GPS monitoring is ‘false alerts’: a weak GPS si
 
 In cities, a common source of GPS signal error is interference from the built environment. Tall buildings can block or reflect signals, preventing a strong, clear connection between the GPS satellite and the receiver. This project investigates the potential relationship between false alerts in Cook County’s electronic monitoring program and the built environment in Chicago. 
 
-# Research Question: 
-
-Is there a relationship between the rate of false alerts and zip codes with high building heights? 
-
-Is the relationship between the rate of false alerts and zip codes with a high building density?
-
-I will run a correlation analysis between the rate of false alerts and average building height and building density. I will also map these variables to analyze a potential spatial relationship.
+## Research Questions: 
+Is there a relationship between the rate of false alerts and building height? Is the relationship between the rate of false alerts and  building density?
 
 # Data Overview:
-
-## FEMA USA Structure Dataset: https://gis-fema.hub.arcgis.com/pages/usa-structures
-
-* This dataset includes height and area measurements of all structures in the United States with a floor area of 450 square feet or more. 
-* I created a dataset of all buildings within Chicago's city boundaries: each entry represents one of the 557,540 structures.
-
-## False Alert by Zip Code: 
-
-* This data was provided directly by the Cook County Sheriff's Office.
-* Each record in the False Alert dataset represents a Chicago zip code, 56 in total. 
-* This dataset includes three columns: 'Zip' (zip code), 'Total Alerts' (total alerts), and 'False Alerts' (false alerts per zip code). 
-* I created a new column titled ‘False Alert Rate’: the number of false alerts divided by the total number of alerts. 
-
-## Zip Code Shapefiles: https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Chicago-Zip-Code-and-Neighborhood-Map/mapn-ahfc
-
-*  This data is available on the City of Chicago’s data portal. 
-* It also includes the area of individual zip codes.
+**Chicago Structures**: A section of the FEMA USA Structure Dataset that includes the height and area of all structures in Chicago.
+**False Alert**: Electronic monitoring data from the Cook County Sheriff's Office. Includes the total number of alerts, the number of false alerts, and the rate of false alerts of each Chicago zip code. 
+**Zip Code Shapefiles** Sourced from the City of Chicago's data portal. 
 
 # Data Management Workflow 
+I will run a correlation analysis between the rate of false alerts and average building height and building density, using zip codes as the unit of measurment. I will also map these variables to analyze a potential spatial relationship. My primary objective was to merge these datasets into a single dataset that organizes all data by zip code. I performed all of my work using the Pandas and Geopandas Python libraries. 
 
-My primary objective is to merge these datasets into a single dataset that organizes all data by zip code. I performed all of my work using the Pandas and Geopandas Python libraries. 
-
-In the Structures dataset, 10,672 structures lacked zip codes, showing “null” values in that column. However, the structure data included latitude and longitude, which allowed me to spatially join the structures to the zip code shapefile. This filled the 10,672 null values with the correct zip code for those structures. I then organized this data by zip code, producing a dataset that included the average building height and area for each Chicago zip code. 
+The Chicago Structures data set includes 557,540 instances: each entry is an individual building in Chicago. 10,672 structures lacked zip codes, showing “null” values in that column. However, the structure data included latitude and longitude, which allowed me to spatially join the structures to the zip code shapefile. This filled the 10,672 null values with the correct zip code for those structures. I then organized this data by zip code, producing a dataset that included the average building height and area for each Chicago zip code. 
 
 I am defining building density as the total building area per zip code divided by the zip code's area. I used the zip codes shapefile to determine each zip code's area, enabling me to calculate the average building density per square meter for each zip code. 
 
