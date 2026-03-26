@@ -61,7 +61,7 @@ I then combined the structural and false alert data with the zip code shapefile 
 
 ## Rate of False Alerts and Building Height
 
-[FA and Building Height Map Here]
+(images/faz_height_map.png)
 
 This map shows the relationship between the rate of false alerts by zip and the average building height in Chicago. 
 
