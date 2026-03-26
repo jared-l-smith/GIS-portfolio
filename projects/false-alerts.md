@@ -67,7 +67,7 @@ This map shows the relationship between the rate of false alerts by zip and the 
 
 There is a slight spatial pattern: false alert rates are high along the shore of Lake Michigan. These areas have a higher average building height, as many high-rise buildings line the lakefront. The zip codes with the highest average building height are in the downtown business district (the “Loop”), and zip codes farthest from the Loop have the lowest building height.
 
-[FA and Building Height Scatterplot Here]
+![Scatterplot showing the relationship between building height and false alerts](../images/faz-height-scatterplot.jpg)
 
 The evidence suggests a weak association between the rate of false alerts and building height.
 
@@ -77,13 +77,13 @@ The results of Spearman's correlation analysis between building height and the r
 
 ## Rate of False Alerts and Building Density
 
-[FA and Density Map Here]
+![Map showing the relationship between the rate of false alerts by zip and the average building density](../images/faz-dense-map.png)
 
 This map shows the relationship between the rate of false alerts by zip and the average building height in Chicago. 
 
 The zip codes with the highest building density are directly adjacent to the central downtown business district. The north and north-west sides of Chicago have higher building density than the south and south-west sides. There is a slight spatial pattern: the denser zip codes north of the loop also have higher false alert rates, but high false alert rates are not exclusive to those areas.
 
-[FA and Density Scatterplot Here]
+![Scatterplot showing the relationship between building dense and false alerts](../images/faz-dense-scatterplot.png)
 
 The evidence suggests a weak association between the rate of false alerts and building density.
 
