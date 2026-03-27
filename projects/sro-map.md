@@ -1,5 +1,8 @@
 # SRO Sales in Rent Burdened Areas
 
+**Date:** June 2024  
+**Tools:** Python | Pandas | GeoPandas
+
 [2-3 sentence description of what this project was about and what you created]
 
 ## Skills Demonstrated
