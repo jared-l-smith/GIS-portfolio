@@ -8,7 +8,7 @@
 [Brief description of the skills showcased in my featured projects]  
 
 ## False Alerts Related to GPS Electronic Monitoring in the Cook County Sheriff’s Office                                                      
-A spatial data science project examining the effectiveness of Cook County’s remote surveillance program. I performed extensive data management and integrated multiple data sources into a unified, geocoded dataset, laying the foundation for accurate spatial analysis and correlation testing.
+*A spatial data science project examining the effectiveness of Cook County’s remote surveillance program. I performed extensive data management and integrated multiple data sources into a unified, geocoded dataset, laying the foundation for accurate spatial analysis and correlation testing.*
 
 [Click Here to View this Project.](projects/false-alerts.md) 
 
