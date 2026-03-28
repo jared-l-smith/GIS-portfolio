@@ -5,7 +5,7 @@
 **Tools:** Python | Pandas | GeoPandas
 
 ## Overview
-[2-3 sentence description of what this project was about and what you created]
+This spatial data science project examined whether false alerts in Cook County’s electronic monitoring program are related to Chicago’s dense built environment. The core of the work centered on extensive data management, including cleaning large structural datasets and resolving missing ZIP codes through spatial joins. My work integrated multiple sources into a unified geocoded dataset, which laid the groundwork for accurate spatial analysis and correlation testing.
 
 ## Skills Demonstrated
 - [Skill 1]
