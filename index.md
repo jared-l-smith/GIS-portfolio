@@ -1,8 +1,7 @@
 # Jared L. Smith - GIS Work Samples
 
 ## About Me
-[1-2 sentences about your area of focus or field of interest - e.g., environmental science, urban planning, forestry, public health, etc. What problems do you want to solve with GIS?]
-
+I am a GIS analyst and urban development researcher focused on affordable housing, community safety, public health, and equitable economic development. I believe civic data can help reveal the roots of urban planning challenges, but real solutions must be shaped and led by the communities that face them.  I aim to use my skills in spatial data analysis, policy research, project management, and stakeholder communication to help build equitable cities for all residents. 
 
 # Featured Projects
 
