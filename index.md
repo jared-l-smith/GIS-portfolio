@@ -44,7 +44,7 @@ I am a GIS analyst and urban development researcher focused on affordable housin
 
 **Story‑Driven Communication:** Combined analytical insights with visual storytelling, making findings accessible to non‑technical viewers.
 
-**Tools Used:** Arc GIS StoryMaps | Arc GIS Online | Microsoft Excel
+**Tools Used:** Arc GIS StoryMaps, Arc GIS Online, Microsoft Excel
 
 **Date:** January 2025
 
@@ -56,17 +56,17 @@ Jonathan's portraits depicted the realities of small business ownership, while m
 
 
 # Technology 
-**GIS**: ArcGIS Pro | Arc GIS Online | StoryMaps
+**GIS**: ArcGIS Pro, Arc GIS Online, Arc GIS StoryMaps
 
-**Programming**: Python | ArcPy
+**Programming**: Python, ArcPy
 
-**Data Analysis:** Pandas, GeoPandas | Microsoft Excel for Statistical Analysis | R 
+**Data Analysis:** Pandas, GeoPandas, Microsoft Excel for Statistical Analysis, R 
 
-**Project Management:** Asana | Microsoft Teams 
+**Project Management:** Asana, Microsoft Teams 
 
-**Graphic Design:** Adobe Illustrator | SketchUp | Canva
+**Graphic Design:** Adobe Illustrator, SketchUp, Canva
 
-**Communication:** Microsoft Word | Microsoft PowerPoint | Zoom
+**Communication:** Microsoft Word, Microsoft PowerPoint, Zoom
 
 # Certifications 
 **CITI Program Certification:** Stage 1 - Basic Course | Expires December 2027
