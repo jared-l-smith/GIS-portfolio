@@ -23,7 +23,7 @@
 [Click Here to View the StoryMap.](https://arcg.is/PfzTi)
 
 **Tools Used:** Arc GIS StoryMaps | Arc GIS Online | Microsoft Excel
-
+**Date:** January 2025
 **Skills Demonstrated:** 
 
 **User-Friendly Map Design:** Created three interactive maps that allowed users to personally explore economic development data across Chicago’s community areas. 
