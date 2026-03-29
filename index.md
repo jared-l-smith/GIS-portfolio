@@ -17,7 +17,14 @@
 
 [Click Here to View the Full Project.](projects/sro-map.md)
 
-## ArcGIS StoryMap Project - *Flags, Food & Faith*
+**Skills Demonstrated:**
+**Data Sourcing & Preparation:** Researched the appropriate dataset to map parcel sales and isolated relevant SRO sales, ensuring accuracy in the final analysis.
+
+**Geospatial Data Management:** Integrated parcel‑sale records with geocoded parcel shapefiles, allowing me to map the location of sold SROs.
+
+**Spatial Data Visualization:** Designed a choropleth map displaying rent-burden data across Chicago’s zip codes, translating data patterns into insights about affordability risks.
+
+## *Flags, Food & Faith*
 *When working with the City of Chicago's Department of Cultural Affairs and Special Events, I partnered with photographer Jonathan Michael Castillo to create a StoryMap for his exhibit, Flags, Food, and Faith. Jonathan’s portraits featured Black and Latine small-business owners operating in under-invested neighborhoods, and my maps creatively communicated economic development data to a popular audience.*
 
 [Click Here to View the StoryMap.](https://arcg.is/PfzTi)
