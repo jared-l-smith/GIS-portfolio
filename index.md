@@ -7,12 +7,18 @@
 # Featured Projects
 [Brief description of the skills showcased in my featured projects]  
 
-## False Alerts Related to GPS Electronic Monitoring in the Cook County Sheriff’s Office                                                      
+## *False Alerts Related to GPS Electronic Monitoring in the Cook County Sheriff’s Office*                                                  
 *A spatial data science project examining the effectiveness of Cook County’s remote surveillance program. I performed extensive data management and integrated multiple data sources into a unified, geocoded dataset, laying the foundation for accurate spatial analysis and correlation testing.*
 
 [Click Here to View the Full Project.](projects/false-alerts.md) 
+**Skills Demonstrated:**
+**Geospatial Data Processing:** Utilized Python to clean large datasets, including fixing 10,000+ missing ZIP codes using spatial joins.
 
-## Mapping SRO Sales in Rent Burdened Areas
+**Large‑Scale Data Integration:** Combined building structure, geographic, and false‑alert datasets into a unified ZIP‑code‑level geocoded file.
+
+**Spatial and Statistical Analysis:** Applied mapping tools and correlation methods to explore relationships between built environmental features and false GPS alerts.
+
+## *Mapping SRO Sales in Rent Burdened Areas*
 *An Arc GIS project that analyzes the status of Chicago’s single‑room occupancy (SRO) housing since the passing of the 2014 SRO Preservation Ordinance. I integrated parcel‑sale and rent‑burden data to map where SRO losses intersect with areas of highest housing vulnerability.*
 
 [Click Here to View the Full Project.](projects/sro-map.md)
