@@ -25,7 +25,7 @@
 
 [Click Here to View the Full Project.](projects/sro-map.md)
 
-***Skills Demonstrated:***
+### Skills Demonstrated:
 
 **Data Sourcing & Preparation:** Researched the appropriate dataset to map parcel sales and isolated relevant SRO sales, ensuring accuracy in the final analysis.
 
@@ -42,7 +42,7 @@
 
 **Date:** January 2025
 
-***Skills Demonstrated:***
+### Skills Demonstrated:
 
 **User-Friendly Map Design:** Created three interactive maps that allowed users to personally explore economic development data across Chicago’s community areas. 
 
