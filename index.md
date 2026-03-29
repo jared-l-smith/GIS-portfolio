@@ -71,8 +71,7 @@ Jonathan's portraits depicted the realities of small business ownership, while m
 **Communication:** Microsoft Word | Microsoft PowerPoint | Zoom
 
 # Certifications 
-**CITI Program Certification**
-*Stage 1 - Basic Course | Expires December 2027*
+**CITI Program Certification:** Stage 1 - Basic Course | Expires December 2027
 
 # Contact
 - Email: jaredlavernesmith@gmail.com
