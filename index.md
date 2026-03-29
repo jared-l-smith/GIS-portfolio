@@ -18,6 +18,7 @@
 [Click Here to View the Full Project.](projects/sro-map.md)
 
 **Skills Demonstrated:**
+
 **Data Sourcing & Preparation:** Researched the appropriate dataset to map parcel sales and isolated relevant SRO sales, ensuring accuracy in the final analysis.
 
 **Geospatial Data Management:** Integrated parcel‑sale records with geocoded parcel shapefiles, allowing me to map the location of sold SROs.
