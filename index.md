@@ -11,7 +11,9 @@
 *A spatial data science project examining the effectiveness of Cook County’s remote surveillance program. I performed extensive data management and integrated multiple data sources into a unified, geocoded dataset, laying the foundation for accurate spatial analysis and correlation testing.*
 
 [Click Here to View the Full Project.](projects/false-alerts.md) 
-**Skills Demonstrated:**
+
+***Skills Demonstrated:***
+
 **Geospatial Data Processing:** Utilized Python to clean large datasets, including fixing 10,000+ missing ZIP codes using spatial joins.
 
 **Large‑Scale Data Integration:** Combined building structure, geographic, and false‑alert datasets into a unified ZIP‑code‑level geocoded file.
@@ -23,7 +25,7 @@
 
 [Click Here to View the Full Project.](projects/sro-map.md)
 
-**Skills Demonstrated:**
+***Skills Demonstrated:***
 
 **Data Sourcing & Preparation:** Researched the appropriate dataset to map parcel sales and isolated relevant SRO sales, ensuring accuracy in the final analysis.
 
@@ -40,7 +42,7 @@
 
 **Date:** January 2025
 
-**Skills Demonstrated:** 
+***Skills Demonstrated:***
 
 **User-Friendly Map Design:** Created three interactive maps that allowed users to personally explore economic development data across Chicago’s community areas. 
 
