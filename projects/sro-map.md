@@ -1,7 +1,7 @@
 # SRO Sales in Rent Burdened Areas
 
 **Date:** June 2024  
-**Tools:** Arc GIS Pro
+**Tools Used:** Arc GIS Pro
 
 This project analyzes the status of Chicago’s single‑room occupancy (SRO) housing since the passing of the 2014 SRO Preservation Ordinance. I integrated parcel‑sale and rent‑burden data to map where SRO losses intersect with areas of highest housing vulnerability.
 
