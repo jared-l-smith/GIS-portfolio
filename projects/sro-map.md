@@ -3,12 +3,12 @@
 **Date:** June 2024  
 **Tools:** Arc GIS Pro
 
-[2-3 sentence description of what this project was about and what you created]
+This project analyzes the status of Chicago’s single‑room occupancy (SRO) housing since the passing of the 2014 SRO Preservation Ordinance. I integrated parcel‑sale and rent‑burden data to map where SRO losses intersect with areas of highest housing vulnerability.
 
-## Skills Demonstrated
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
+### Skills Demonstrated
+**Data Sourcing & Preparation:** Researched the appropriate dataset to map parcel sales and isolated relevant SRO sales, ensuring accuracy in the final analysis. 
+**Geospatial Data Management:**  Integrated parcel‑sale records with geocoded parcel shapefiles, allowing me to map the location of sold SROs. 
+**Spatial Data Visualization:** Designed a choropleth map displaying rent-burden data across Chicago’s zip codes, translating data patterns into insights about affordability risks.
 
 # Introduction: 
 
