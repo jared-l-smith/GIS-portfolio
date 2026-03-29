@@ -37,10 +37,6 @@
 
 [Click Here to View the StoryMap.](https://arcg.is/PfzTi)
 
-**Tools Used:** Arc GIS StoryMaps | Arc GIS Online | Microsoft Excel
-
-**Date:** January 2025
-
 ### Skills Demonstrated:
 
 **User-Friendly Map Design:** Created three interactive maps that allowed users to personally explore economic development data across Chicago’s community areas. 
@@ -48,6 +44,10 @@
 **Data Visualization:** Designed six graphs that communicate disparity in business ownership among demographic groups. 
 
 **Story‑Driven Communication:** Combined analytical insights with visual storytelling, making findings accessible to non‑technical viewers.
+
+**Tools Used:** Arc GIS StoryMaps | Arc GIS Online | Microsoft Excel
+
+**Date:** January 2025
 
 The StoryMap serves as the project's online gallery, allowing users to explore the economic conditions of Chicago's neighborhoods. These interactive elements enhanced public understanding by making economic and business data easily navigable and relevant to the real experiences of under-invested communities. Using the Chicago Data Portal, I produced three interactive maps showing each business location, median household income, and business license density for each Chicago community area. I also used data from the 2023 Chicago Citywide plan to create six graphs that visualized disparities in business ownership rates among Chicago’s Latine, POC, and female residents.
 
