@@ -19,7 +19,7 @@
 
 **Spatial and Statistical Analysis:** Applied mapping tools and correlation methods to explore relationships between built environmental features and false GPS alerts.
 
-## *Mapping SRO Sales in Rent Burdened Areas*
+## *Mapping SRO Sales in Rent-Burdened Areas*
 *An Arc GIS project that analyzes the status of Chicago’s single‑room occupancy (SRO) housing since the passing of the 2014 SRO Preservation Ordinance. I integrated parcel‑sale and rent‑burden data to map where SRO losses intersect with areas of highest housing vulnerability.*
 
 [Click Here to View the Full Project.](projects/sro-map.md)
