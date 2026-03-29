@@ -12,7 +12,7 @@
 
 [Click Here to View the Full Project.](projects/false-alerts.md) 
 
-***Skills Demonstrated:***
+### Skills Demonstrated:
 
 **Geospatial Data Processing:** Utilized Python to clean large datasets, including fixing 10,000+ missing ZIP codes using spatial joins.
 
