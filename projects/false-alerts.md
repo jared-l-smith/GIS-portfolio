@@ -8,11 +8,11 @@
 This spatial data science project examined whether false alerts in Cook County’s electronic monitoring program are related to Chicago’s dense built environment. The core of the work centered on extensive data management, including cleaning large structural datasets and resolving missing ZIP codes through spatial joins. My work integrated multiple sources into a unified geocoded dataset, which laid the groundwork for accurate spatial analysis and correlation testing.
 
 ## Skills Demonstrated
-**Proficiency in Python for geospatial data processing** to clean large datasets, including fixing 10,000+ missing ZIP codes using spatial joins.
+**Geospatial Data Processing:** Utilized Python to clean large datasets, including fixing 10,000+ missing ZIP codes using spatial joins.
 
-**Large‑scale data integration,** merging building structure, geographic, and false‑alert datasets into a unified ZIP‑code‑level geocoded file.
+**Large‑Scale Data Integration:** Combined building structure, geographic, and false‑alert datasets into a unified ZIP‑code‑level geocoded file.
 
-**Spatial and statistical analysis,** applying mapping tools and correlation methods to explore relationships between built environmental features and false GPS alerts.
+**Spatial and Statistical Analysis:** Applied mapping tools and correlation methods to explore relationships between built environmental features and false GPS alerts.
 
 # Introduction:
 
