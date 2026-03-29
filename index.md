@@ -59,10 +59,15 @@ Jonathan's portraits depicted the realities of small business ownership, while m
 
 # Technology 
 **GIS**: ArcGIS Pro | Arc GIS Online | StoryMaps
+
 **Programming**: Python | ArcPy
+
 **Data Analysis:** Pandas, GeoPandas | Microsoft Excel for Statistical Analysis | R 
+
 **Project Management:** Asana | Microsoft Teams 
+
 **Graphic Design:** Adobe Illustrator | SketchUp | Canva
+
 **Communication:** Microsoft Word | Microsoft PowerPoint | Zoom
 
 # Certifications 
