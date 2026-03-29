@@ -14,7 +14,7 @@ I am a GIS analyst and urban development researcher focused on affordable housin
 
 **Geospatial Data Processing:** Utilized Python to clean large datasets, including fixing 10,000+ missing ZIP codes using spatial joins.
 
-**Large‑Scale Data Integration:** Combined building structure, geographic, and false‑alert datasets into a unified ZIP‑code‑level geocoded file.
+**Large‑Scale Data Integration:** Combined seperate building structure, geographic, and false‑alert data into a unified ZIP‑code‑level geocoded dataset.
 
 **Spatial and Statistical Analysis:** Applied mapping tools and correlation methods to explore relationships between built environmental features and false GPS alerts.
 
