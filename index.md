@@ -57,14 +57,17 @@ Jonathan's portraits depicted the realities of small business ownership, while m
 **Please note:** The Flags, Food & Faith exhibit with the City of Chicago has officially ended. This project is now for professional development purposes only and does not reflect the views of the City or Jonathan Michael Castillo.
 
 
-# Skills
-### GIS & Remote Sensing
-- [List relevant technical skills]
-- [Software proficiencies]
-- [Analysis techniques]
+# Technology 
+**GIS**: ArcGIS Pro | Arc GIS Online | StoryMaps
+**Programming**: Python | ArcPy
+**Data Analysis:** Pandas, GeoPandas | Microsoft Excel for Statistical Analysis | R 
+**Project Management:** Asana | Microsoft Teams 
+**Graphic Design:** Adobe Illustrator | SketchUp | Canva
+**Communication:** Microsoft Word | Microsoft PowerPoint | Zoom
 
-### Programming & Data Analysis
-- [Languages/tools]
+# Certifications 
+**CITI Program Certification**
+*Stage 1 - Basic Course | Expires December 2027*
 
 # Contact
 - Email: jaredlavernesmith@gmail.com
