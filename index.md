@@ -73,7 +73,7 @@ Jonathan's portraits depicted the realities of small business ownership, while m
 
 # Contact
 - Email: jaredlavernesmith@gmail.com
-- [Click here to see my LinkedIn profile](www.linkedin.com/in/jaredlavernesmith)
+- [Click here to see my LinkedIn profile.](https://www.linkedin.com/in/jaredlavernesmith)
 
 
 
