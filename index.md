@@ -10,17 +10,17 @@
 ## False Alerts Related to GPS Electronic Monitoring in the Cook County Sheriff’s Office                                                      
 *A spatial data science project examining the effectiveness of Cook County’s remote surveillance program. I performed extensive data management and integrated multiple data sources into a unified, geocoded dataset, laying the foundation for accurate spatial analysis and correlation testing.*
 
-[Click Here to View this Project.](projects/false-alerts.md) 
+[Click Here to View the Full Project.](projects/false-alerts.md) 
 
 ## Mapping SRO Sales in Rent Burdened Areas
 *An Arc GIS project that analyzes the status of Chicago’s single‑room occupancy (SRO) housing since the passing of the 2014 SRO Preservation Ordinance. I integrated parcel‑sale and rent‑burden data to map where SRO losses intersect with areas of highest housing vulnerability.*
 
-[Click Here to View this Project.](projects/sro-map.md)
+[Click Here to View the Full Project.](projects/sro-map.md)
 
 ## ArcGIS StoryMap Project - *Flags, Food & Faith*
 *An online portrait gallery with interactive maps communicating economic disparity across Chicago’s neighborhoods.* 
 
-[Click Here to View the StoryMap.](https://arcg.is/PfzTi)
+[Click Here to View the Full StoryMap.](https://arcg.is/PfzTi)
 
 When working with Chicago's Department of Cultural Affairs and Special Events, I partnered with photographer Jonathan Michael Castillo to create a StoryMap for his exhibit *Flags, Food, and Faith*: a portrait series of Black and Latine small business owners in under-invested neighborhoods. 
 
