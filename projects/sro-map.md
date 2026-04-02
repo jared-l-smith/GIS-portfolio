@@ -45,7 +45,10 @@ Since the 2014 Ordinance, 18 SROs have been sold, four of which are located in r
 
 Rent burden is one indicator of displacement risk, and this map represents only part of a complicated phenomenon. However, the results are concerning: most SROs sold were in areas where renters already pay a high share of income toward rent, or are close to doing so. SROs are just one type of transitional housing; expanding Chicago's affordable housing supply citywide is crucial to better address displacement risk. 
 
+# Intrested in Learning More?
+This project is part of my research into Single-Room Occupancy housing in Chicago’s Uptown neighborhood. My work explores the complicated history of SRO hotels and their role in preventing complete homelessness, despite their poor living conditions. This project investigates the history of SRO housing in Uptown, analyzes the area's wealth and demographic data, and presents policy solutions to ensure transitional housing remains under the control of local affordable housing developers and advocacy organizations. 
 
+You can download the paper here: ![SRO Analysis Report](../writing/Uptown-sro-analysis.pdf)
 
 ---
 
