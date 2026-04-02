@@ -1,7 +1,5 @@
-# Jared L. Smith - GIS Work Samples
-
-## About Me
-I am a GIS analyst and urban development researcher focused on affordable housing, community safety, public health, and equitable economic development. I believe civic data can help reveal the roots of urban planning challenges, but real solutions must be shaped and led by the communities that face them.  I aim to use my skills in spatial data analysis, policy research, project management, and stakeholder communication to help build equitable cities for all residents. 
+# About Me
+I am a GIS analyst and urban development researcher focused on affordable housing, community safety, public health, and equitable economic development. I believe civic data can help reveal the roots of urban planning challenges, but real solutions must created by the communities that face them. I aim to use my skills in spatial data analysis, policy research, project management, and stakeholder communication to help build equitable cities for all residents. 
 
 # Featured Projects
 
