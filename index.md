@@ -1,5 +1,7 @@
 # About Me
-I am a GIS analyst and urban development researcher focused on affordable housing, community safety, public health, and equitable economic development. I believe civic data can help reveal the roots of urban planning challenges, but real solutions must created by the communities that face them. I aim to use my skills in spatial data analysis, policy research, project management, and stakeholder communication to help build equitable cities for all residents. 
+Urban planning shouldn't be something that happens to you: a truly democratic city includes the residents affected by urban problems as partners in developing solutions. The role of planners is to provide insight into a problem’s root causes, make technical language accessible, and facilitate methods for neighbors to collaborate on ways to improve thier community. Data in a vacuum is useless: it must be put in the right context to become impactful information. 
+
+As a GIS analyst and urban development researcher, I aim to use my skills in spatial data analysis, policy research, project management, and stakeholder communication to help build equitable cities for all residents. My work focuses on affordable housing, community safety, and equitable economic development. If you need a partner in your mission to improve your city, please reach out: my experience and enthusiasm will be an asset to your work.
 
 # Featured Projects
 
